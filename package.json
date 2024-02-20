@@ -1,5 +1,5 @@
 {
-  "name": "console",
+  "name": "demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,9 +12,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "skdb": "latest",
-    "skdb-dev": "latest",
-    "skdb-react": "latest"
+    "skdb": "^0.0.60",
+    "skdb-dev": "^0.1.17",
+    "skdb-react": "^0.1.17"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
