@@ -21,7 +21,7 @@ function AddRandomRow() {
 function ExampleTable() {
   const rows = useQuery("SELECT id, intCol, floatCol FROM example");
   const acc = rows.map(
-    row => (
+    (row: Record<string, any>) => (
       <tr key={row.id}>
         <td>{row.id}</td>
         <td>{row.intCol}</td>
