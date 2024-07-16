@@ -12,9 +12,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "skdb": "^0.0.60",
-    "skdb-dev": "^0.1.17",
-    "skdb-react": "^0.1.17"
+    "skdb": "^0.0.67",
+    "skdb-react": "^0.1.23"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
@@ -25,6 +24,7 @@
     "eslint": "^8.55.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "skdb-dev": "latest",
     "typescript": "^5.2.2",
     "vite": "^5.1.3"
   }

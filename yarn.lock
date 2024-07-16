@@ -1539,25 +1539,25 @@ shebang-regex@^3.0.0:
   resolved "https://registry.npmjs.org/shebang-regex/-/shebang-regex-3.0.0.tgz"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
-skdb-dev@^0.1.17:
-  version "0.1.17"
-  resolved "https://registry.npmjs.org/skdb-dev/-/skdb-dev-0.1.17.tgz"
-  integrity sha512-E8IMt/pXozkkZKf6QiG4Xb7qDn8Y9wPNig7KAu6kF1JiqcJD+JUQ7XAKG3u+dK2xpf5UTHafQE22QWDKvHdXfA==
+skdb-dev@latest:
+  version "0.1.23"
+  resolved "https://registry.yarnpkg.com/skdb-dev/-/skdb-dev-0.1.23.tgz#ae80e0669bee60c0ea95dbf8bb02f62871c2348f"
+  integrity sha512-Hi0c0pkbqb1DE6Y0r5s2bUCTPaiPO6PVob6RxGt4W+WapCybxPihT1IC7+NpSV+1+5X7GMNdxMoqsJ/4rvPBXw==
   dependencies:
-    skdb "^0.0.60"
+    skdb "^0.0.67"
 
-skdb-react@^0.1.17:
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/skdb-react/-/skdb-react-0.1.17.tgz#d65a66054188e0d59c4bc7f7217c8ab6d68f0d06"
-  integrity sha512-75XUIVwfFezyHtpgIos8/JKYLr/zjOZr3uXTE2MSYVeglf0MO3FrNkvj+vMjNVf+gilJ4uZgRfCC4p0NkdK5aQ==
+skdb-react@^0.1.23:
+  version "0.1.23"
+  resolved "https://registry.yarnpkg.com/skdb-react/-/skdb-react-0.1.23.tgz#a360b7623b3511e213755c82e9089f09fb51bc41"
+  integrity sha512-tZn912kIVD+2EajvxIFKs7KmNANuwuFOscnhX0IDsa67Idr0KIW+0yV7avojYRs9r9pkmeM67Pg61Q3++hsJ/g==
   dependencies:
     react "^18.2.0"
-    skdb "^0.0.60"
+    skdb "^0.0.67"
 
-skdb@^0.0.60:
-  version "0.0.60"
-  resolved "https://registry.npmjs.org/skdb/-/skdb-0.0.60.tgz"
-  integrity sha512-HN2iii4TDArF4tgeqhhhwdAYSSxKogIlJvajUnHX3Ckx2NnvU9OSwCy80BDmh1HC6SRh7de/VIIfNSNt8fIgcQ==
+skdb@^0.0.67:
+  version "0.0.67"
+  resolved "https://registry.yarnpkg.com/skdb/-/skdb-0.0.67.tgz#64330d38920cd3f864e98ba056e14def6beaf9ea"
+  integrity sha512-ZpGnl2B82IWWjZKxmeo0Qb6TkC1UV+fiQ2t96ii8GpIX6tWlABK3vkWOImnle5fPXTai6Z7gp2/8VTQXpiaS0Q==
   dependencies:
     ws "^8.12.0"
 
